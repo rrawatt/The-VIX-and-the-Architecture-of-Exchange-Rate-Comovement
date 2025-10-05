@@ -1,4 +1,4 @@
-## Project Summary: Analyzing Exchange Rate Dynamics and Market Fear
+## Project Summary: The-VIX-and-the-Architecture-of-Exchange-Rate-Comovement
 
 This notebook explores the relationship between the daily exchange rates of the Indian Rupee against major currencies (USD, Pound Sterling, Euro, Yen), the VIX index (as a measure of market fear), WTI crude oil prices, and the US 10-Year Treasury yield. The analysis involves several key steps: data loading and preprocessing, time series analysis to understand the dependencies between the variables, and regression analysis to model the dynamic correlation of currency pairs and its relationship with VIX, especially during periods of high market fear.
 
